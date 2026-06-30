@@ -1,6 +1,3 @@
-# codexfinrl
-
-Flat FinRL-based reinforcement learning trading project for NSE equities. There are no source subfolders: every code file is directly in this folder, and the only folder is `data` for generated metrics, models, and logs.
 
 ## Files
 
