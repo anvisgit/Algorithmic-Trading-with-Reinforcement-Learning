@@ -1,0 +1,8 @@
+finrl
+stable-baselines3
+gymnasium
+yfinance
+pandas
+numpy
+torch
+tensorboard
